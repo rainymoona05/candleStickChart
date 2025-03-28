@@ -1,0 +1,5 @@
+
+<div id="main"></div>
+<input id="fileInput" class="fileUpload" type="file" (change)="onFileUpload($event)" multiple="false" />
+<button class="clearBtn" (click)="clear()">Clear</button>
+<div *ngIf="jsonData !== undefined && jsonData.length > 0" id="eChartId"></div>

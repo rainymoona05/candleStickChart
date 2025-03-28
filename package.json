@@ -1,5 +1,5 @@
 {
-  "name": "angular-16-crud",
+  "name": "candleStickChart",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -36,6 +36,7 @@
     "@types/d3-dsv": "^3.0.7",
     "@types/jasmine": "~4.3.0",
     "@types/papaparse": "^5.3.15",
+    "angular-cli-ghpages": "^2.0.3",
     "jasmine-core": "~4.6.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
